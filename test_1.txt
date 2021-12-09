@@ -1,3 +1,1 @@
-{
-	1) COMMID
-}
+1) COMMID
